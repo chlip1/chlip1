@@ -4,8 +4,12 @@
 <h1 align="center"><b>Hi , I'm Łukasz Chlipała </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=..&hearts,;++Self-taught+Software+Engineer,;Automatic+Control+and+Robotics+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=+O+..&hearts;++Self-taught+Software+Engineer,;Automatic+Control+and+Robotics+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTcwMzg4Yzk3ZDlkMTE0NzY1ZTY3NzUxNDY0YmZhYWM2NGE0YjE0YyZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lchlipala/">
