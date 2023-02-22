@@ -29,6 +29,19 @@ I am a working student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - :zap: During my free time, I like to work on personal coding projects, such as building web applications or developing new software features. I also enjoy learning about the latest technologies by attending online courses or participating in coding communities. Additionally, I like to keep my mind active by reading books and practicing mindfulness exercises.
 
 - :mailbox:You can reach me via <div>[![Linkedin Badge](https://img.shields.io/badge/-lchlipala-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lchlipala)</div>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+
+
 <!--
 **chlip1/chlip1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
