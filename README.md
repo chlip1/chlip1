@@ -10,12 +10,25 @@
     <img src="https://komarev.com/ghpvc/?username=chlip1&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
+### :woman_technologist: About Me :
+I am a working student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
+
+- :telescope: I am currently working as a Software Engineer.
+
+- :seedling: I'm exploring technical content writing to share my knowledge and insights about programming, software engineering, and emerging technologies. By honing my writing skills, I hope to become a valuable contributor to the tech community and inspire others to pursue careers in this exciting field.
+
+- :zap: During my free time, I like to work on personal coding projects, such as building web applications or developing new software features. I also enjoy learning about the latest technologies by attending online courses or participating in coding communities. Additionally, I like to keep my mind active by reading books and practicing mindfulness exercises.
+
+- :mailbox:You can reach me via [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lchlipala)
 <!--
 **chlip1/chlip1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
