@@ -35,12 +35,10 @@ I am a working student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - :zap: During my free time, I like to work on personal coding projects, such as building web applications or developing new software features. I also enjoy learning about the latest technologies by attending online courses or participating in coding communities. Additionally, I like to keep my mind active by reading books and practicing mindfulness exercises.
 
 - :mailbox:You can reach me via:
-<div display="inline-block;">
+<div>
   
 [![Linkedin Badge](https://img.shields.io/badge/-lchlipala-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lchlipala)
-  
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lukasz.chlipala3@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
-  
+ 
 </div>
 
 ---
