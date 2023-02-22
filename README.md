@@ -28,7 +28,7 @@ I am a working student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :zap: During my free time, I like to work on personal coding projects, such as building web applications or developing new software features. I also enjoy learning about the latest technologies by attending online courses or participating in coding communities. Additionally, I like to keep my mind active by reading books and practicing mindfulness exercises.
 
-- :mailbox:You can reach me via [![Linkedin Badge](https://img.shields.io/badge/-lchlipala-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lchlipala)
+- :mailbox:You can reach me via <div>[![Linkedin Badge](https://img.shields.io/badge/-lchlipala-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lchlipala)</div>
 <!--
 **chlip1/chlip1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
