@@ -34,7 +34,11 @@ I am a working student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :zap: During my free time, I like to work on personal coding projects, such as building web applications or developing new software features. I also enjoy learning about the latest technologies by attending online courses or participating in coding communities. Additionally, I like to keep my mind active by reading books and practicing mindfulness exercises.
 
-- :mailbox:You can reach me via <div>[![Linkedin Badge](https://img.shields.io/badge/-lchlipala-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lchlipala)</div>
+- :mailbox:You can reach me via:
+<div>
+[![Linkedin Badge](https://img.shields.io/badge/-lchlipala-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lchlipala)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lukasz.chlipala3@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+</div>
 
 ---
 
@@ -63,19 +67,3 @@ I am a working student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlip1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-
-<!--
-**chlip1/chlip1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
