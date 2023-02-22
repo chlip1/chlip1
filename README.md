@@ -60,7 +60,8 @@ I am a working student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ### :fire: My Stats :
 <div align="center">
   
- <img src="https://github-readme-stats.vercel.app/api?username=chlip1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chlip1&theme=dark&background=000000)](https://git.io/streak-stats)
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlip1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
