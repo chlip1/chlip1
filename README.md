@@ -26,7 +26,6 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a working student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 
 - :telescope: I am currently working as a Software Engineer.
 
